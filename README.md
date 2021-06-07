@@ -1,2 +1,2 @@
-# public-logseq-notes
-Public notes based on logseq
+- public-logseq-notes
+  Public notes based on logseq
